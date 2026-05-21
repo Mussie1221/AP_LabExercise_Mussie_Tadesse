@@ -1,0 +1,24 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // No external dependencies needed for the pure‑Java UI
+}
+
+application {
+    // Main class that contains the public static void main(String[] args)
+    mainClass = 'PokerGame'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
