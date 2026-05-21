@@ -1,0 +1,11 @@
+com\chatapp\controller\package-info.class
+com\chatapp\model\package-info.class
+com\chatapp\App.class
+com\chatapp\controller\LoginController.class
+com\chatapp\view\package-info.class
+com\chatapp\controller\ChatController.class
+module-info.class
+com\chatapp\database\DatabaseConnection.class
+com\chatapp\model\User.class
+com\chatapp\service\package-info.class
+com\chatapp\service\AuthService.class
